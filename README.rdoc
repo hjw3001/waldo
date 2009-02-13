@@ -1,4 +1,4 @@
-= Uniquify
+= Waldo
 
 Ruby gem to create a mosaic image from a series of smaller images.
 
